@@ -1,9 +1,9 @@
 Cybersecurity Powered by Artificial Intelligence and the Blockchain
 
-HEROIC.com Team
-February 2018
+**HEROIC.com Team**
+**February 2018**
 
-Abstract
+**Abstract**
 
 HEROIC.com is powering the future of cybersecurity with artificial intelligence and the blockchain to protect against current and next-generation cyber threats. 
 
@@ -19,22 +19,22 @@ Notice: This document is for informational purposes only and does not constitute
 
 Table of Contents
 
-The Problem with Current Cybersecurity Solutions
-2.1 Arc Reactor
-2.2 Guardian
+The Problem with Current Cybersecurity Solutions(#the-problem-with-current-cybersecurity-solutions)
+2.1 Arc Reactor(#arc-reactor)
+2.2 Guardian(#guardian)
 2.3 Research and Development Environment
-Ecosystem Participants
-3.1 Individuals (Users and Threat Miners)
-3.2 Developers
-3.3 Organizations
+Ecosystem Participants(#research-and-development-environment-ecosystem-participants)
+3.1 Individuals (Users and Threat Miners)(#individuals-(users-and-threat-miners))
+3.2 Developers(#developers)
+3.3 Organizations(#organizations)
 Technology Overview
-4.1 Arc Reactor
-4.2 Guardian
-4.3 Research and Development Environment
-4.4 Other Technology
-4.4.1 Agent Software
-4.4.2 Artificial Intelligence (Cyberlytics®)
-4.4.3 Blockchain Software
+4.1 Arc Reactor(#arc-reactor)
+4.2 Guardian(#guardian)
+4.3 Research and Development Environment(#research-and-development-environment)
+4.4 Other Technology(#other-technology)
+4.4.1 Agent Software(#agent-software)
+4.4.2 Artificial Intelligence (Cyberlytics®)(#artificial-intelligence-(cyberlytics®))
+4.4.3 Blockchain Software(#blockchain-software)
 4.4.4 Proof-of-Threat™
 4.4.5 Data Pricing (Dynamic Pricing algorithm)
 Token Details
@@ -53,7 +53,7 @@ Appendix
 Glossary
 Citations
 
-The Problem with Current Cybersecurity Solutions
+# The Problem with Current Cybersecurity Solutions
 
 So much of our life hinges on trust in technology: Trust that when the light turns green, it’s safe to go; that when we put our money into a bank or shop online, it’s secure. Almost everything we use each day relies on technology, from alarm clocks and toasters to kids’ toys and cars. It is estimated that by 2020 there will be more than 30 billion devices connected to the Internet. (2)
 
@@ -93,9 +93,7 @@ Data providers include but are not limited to individual threat miners, open-sou
 
 Access to the collected samples and their attributes will be available programmatically via APIs and SDKs conforming to industry standard formats.
 
-Arc Reactor will become more intelligent and robust as more users, organizations and data
-providers join the Ecosystem. We expect the data provided by Arc Reactor to power many
-cybersecurity-related products and eventually to become the world’s largest repository of cyber threat intelligence.
+Arc Reactor will become more intelligent and robust as more users, organizations and data providers join the Ecosystem. We expect the data provided by Arc Reactor to power many cybersecurity-related products and eventually to become the world’s largest repository of cyber threat intelligence.
 
 A decentralized and open threat intelligence exchange will break down the barriers of entry when building AI-powered cybersecurity solutions, and will enable threat data to be distributed for universal benefit.
 
